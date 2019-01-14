@@ -1,7 +1,7 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "TIMEFOUNDER",
+  "url": "https://www.timefounder.com/",
+  "description": "VALUE ACCOUNTING",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
@@ -10,7 +10,7 @@
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "asolache",
+    "email": "asolache@gmail.com"
   }
 }
